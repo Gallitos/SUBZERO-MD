@@ -22,39 +22,39 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "enter your subzero md session id here",
+SESSION_ID: process.env.SESSION_ID || "SUBZERO-MD~TZYlnRqK#W21DLXBTby0lEBknqFfi1SEj9fZE--EmZwHsmTiKBHA",
  
-PREFIX: process.env.PREFIX || ".",
+PREFIX: process.env.PREFIX || "!",
 // Enter Your Desired Prefix
 
-BOT_NAME: process.env.BOT_NAME || "『 𝐒𝐔𝐁𝐙𝐄𝐑𝐎 𝐌𝐃 』",
+BOT_NAME: process.env.BOT_NAME || "『 𝙂𝘼𝙇𝙇𝙄𝙏☯︎𝙎 ➤ 𝙔☯︎𝙐𝙍 ➤ 𝙋𝘼𝙋𝘼【 𝐌𝐃 』",
 // Enter Your Bot Name
 
-CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
+CUSTOM_REACT: process.env.CUSTOM_REACT || "true",
 // make this true for custum emoji react  
   
-CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
+CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "🗿",
 // chose custom react emojis by yourself 
 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "263719647303",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "254713626092",
 // Set Owner Name
 
-OWNER_NAME: process.env.OWNER_NAME || "ᴍʀ ꜰʀᴀɴᴋ ᴏꜰᴄ",
+OWNER_NAME: process.env.OWNER_NAME || "𝙂𝘼𝙇𝙇𝙄𝙏☯︎𝙎 ➤ 𝙔☯︎𝙐𝙍 ➤ 𝙋𝘼𝙋𝘼【",
 // Set Footer
 
-DESCRIPTION: process.env.DESCRIPTION || "*© Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Sᴜʙᴢᴇʀᴏ*",
+DESCRIPTION: process.env.DESCRIPTION || "ALL HAIL THE ALMIGHTY PAPA",
 // add bot owner name   
  
 ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/YkJyMRb/mrfrankofc.jpg",
 // add img for alive msg
 
-LIVE_MSG: process.env.LIVE_MSG || "> [🎐] SᴜʙZᴇʀᴏ MD ɪs ᴏɴʟɪɴᴇ*⚡",
+LIVE_MSG: process.env.LIVE_MSG || "> I'M ALIVE HUMAN,,ALL HAIL THE ALMIGHTY PAPA ",
 // add alive msg here 
 
-READ_MESSAGE: process.env.READ_MESSAGE || "false",
+READ_MESSAGE: process.env.READ_MESSAGE || "true",
 // Turn true or false for automatic read msgs
 
 AUTO_REACT: process.env.AUTO_REACT || "false",
@@ -87,18 +87,18 @@ AUTO_STICKER: process.env.AUTO_STICKER || "false",
 AUTO_REPLY: process.env.AUTO_REPLY || "false",
 // make true or false automatic text reply
  
-ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
+ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
 // maks true for always online 
 
 PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
 // make false if want private mod
 
-AUTO_TYPING: process.env.AUTO_TYPING || "false",
+AUTO_TYPING: process.env.AUTO_TYPING || "true",
 // true for automatic show typing  
  
 READ_CMD: process.env.READ_CMD || "true",
 // true if want mark commands as read 
 
-AUTO_RECORDING: process.env.AUTO_RECORDING || "false"
+AUTO_RECORDING: process.env.AUTO_RECORDING || "true"
 // make it true for auto recoding 
 };
