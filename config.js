@@ -30,7 +30,7 @@ PREFIX: process.env.PREFIX || "!",
 BOT_NAME: process.env.BOT_NAME || "『 𝙂𝘼𝙇𝙇𝙄𝙏☯︎𝙎 ➤ 𝙔☯︎𝙐𝙍 ➤ 𝙋𝘼𝙋𝘼【 𝐌𝐃 』",
 // Enter Your Bot Name
 
-CUSTOM_REACT: process.env.CUSTOM_REACT || "true",
+CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react  
   
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "🗿",
