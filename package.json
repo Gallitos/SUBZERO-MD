@@ -32,7 +32,7 @@
     "btch-downloader": "^2.2.9",
     "megajs": "^1.1.0",
     "wa_set_pkg": "1.0.5",
-    "wa-sticker-formatter": "^4.4.4",
+    "wa-sticker-formatter": "^4.3.2",
     "path": "^0.12.7",
     "vm": "^0.1.0",
     "cheerio": "^1.0.0-rc.12",
